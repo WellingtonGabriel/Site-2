@@ -1,4 +1,4 @@
 
-primeiro site : https://emporiobikes.mobirisesite.com/ 
+primeiro site : https://spontaneous-chebakia-100298.netlify.app/index.html
 
-segundo site : https://emoporiobikes.mobirisesite.com/
+segundo site : https://classy-blini-687b02.netlify.app/index.html
