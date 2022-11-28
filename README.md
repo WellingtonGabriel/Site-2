@@ -1,4 +1,4 @@
 
-Site 1 : https://spontaneous-chebakia-100298.netlify.app/index.html
+Site 1 : https://strong-scone-92fefa.netlify.app/
 
-Site 2 : https://classy-blini-687b02.netlify.app/index.html
+Site 2 : https://visionary-elf-f489b1.netlify.app/
